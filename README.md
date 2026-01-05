@@ -1,4 +1,6 @@
  📋 Student Attendance Management System
+ <img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/dae7a9d1-20b9-46c6-9bc8-ff3d5c35db6c" />
+
 
 ## 📌 Project Title
 Student Attendance Management System
